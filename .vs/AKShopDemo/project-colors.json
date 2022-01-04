@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b1474d7-777b-46a6-ac16-6cb6199ef830": {
+      "ProjectGuid": "9b1474d7-777b-46a6-ac16-6cb6199ef830",
+      "DisplayName": "AKShopDemo",
+      "ColorIndex": 0
+    },
+    "77248625-a77b-4eb2-9fd3-1f8cb46e1456": {
+      "ProjectGuid": "77248625-a77b-4eb2-9fd3-1f8cb46e1456",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 1
+    },
+    "5b56c115-4244-4a26-8f55-ee76eec2f953": {
+      "ProjectGuid": "5b56c115-4244-4a26-8f55-ee76eec2f953",
+      "DisplayName": "WebApplication2",
+      "ColorIndex": 2
+    },
+    "b19ec079-b485-49c3-b4c7-fd04416062e7": {
+      "ProjectGuid": "b19ec079-b485-49c3-b4c7-fd04416062e7",
+      "DisplayName": "AKPSHOPProject",
+      "ColorIndex": 3
+    },
+    "713cdf4c-8cfa-4bd1-be45-c0896dfd00aa": {
+      "ProjectGuid": "713cdf4c-8cfa-4bd1-be45-c0896dfd00aa",
+      "DisplayName": "APKSHOPproject",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
