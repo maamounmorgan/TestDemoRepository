@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APKSHOPproject", "APKSHOPproject\APKSHOPproject.csproj", "{713CDF4C-8CFA-4BD1-BE45-C0896DFD00AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713CDF4C-8CFA-4BD1-BE45-C0896DFD00AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713CDF4C-8CFA-4BD1-BE45-C0896DFD00AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713CDF4C-8CFA-4BD1-BE45-C0896DFD00AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713CDF4C-8CFA-4BD1-BE45-C0896DFD00AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {097B3C5D-1EBA-445F-AFAA-B6894BAABA21}
+	EndGlobalSection
+EndGlobal
